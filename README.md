@@ -272,12 +272,13 @@
     </tr>
 </table>
 
+<p>Објаснување на тест случаите:</p>
 <ul>
-  <li>Test 1:</li>
-  <li>Test 2:</li>
-  <li>Test 3:</li>
-  <li>Test 4:</li>
-  <li>Test 5:</li>
+  <li>Test case 1:</li>
+  <li>Test case 2:</li>
+  <li>Test case 3:</li>
+  <li>Test case 4:</li>
+  <li>Test case 5:</li>
 </ul>
 
 
@@ -315,7 +316,15 @@
     </tr>
 </table>
 
-<h3>Објаснување на напишаните unit tests</h3>
+<p>Објаснување на тест случаите:</p>
+<ul>
+  <li>Test case 1:</li>
+  <li>Test case 2:</li>
+  <li>Test case 3:</li>
+  <li>Test case 4:</li>
+</ul>
+
+<h3>Тестови</h3>
 
 <pre>
 <!--code Tag starts here -->
