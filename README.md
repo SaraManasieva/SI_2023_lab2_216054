@@ -291,25 +291,25 @@
         <td>user.getEmail() == null </td>
     </tr>
     <tr>
-        <td> </td>
+        <td>Test case 1</td>
         <td>T</td>
         <td>anything</td>
         <td>anything </td>
     </tr>
     <tr>
-        <td> </td>
+        <td>Test case 2</td>
         <td>F</td>
         <td>T</td>
         <td>anything </td>
     </tr>
     <tr>
-        <td> </td>
+        <td>Test case 3</td>
         <td>F</td>
         <td>F</td>
         <td>T </td>
     </tr>
     <tr>
-        <td> </td>
+        <td>Test case 4</td>
         <td>F</td>
         <td>F</td>
         <td>F </td>
